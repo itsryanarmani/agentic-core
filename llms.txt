@@ -10,6 +10,6 @@ Keywords: shared-types, config, guards, agentic-suite, claude-code, codex, cli, 
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-core
-- Core contract: https://github.com/pooriaarab/agentic-core/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-core
+- Core contract: https://github.com/itsryanarmani/agentic-core/blob/main/docs/agentic-core.md
 - License: MIT
