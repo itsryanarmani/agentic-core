@@ -143,7 +143,7 @@ The root SDK export does not expose MCP server factories. Integrate those throug
 ## Status
 
 Version 0.1.0 is an early release. APIs can change before 1.0.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-core/issues) for support. Public case studies are not yet published in this repository.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-core/issues) for support. Public case studies are not yet published in this repository.
 
 ## FAQ
 

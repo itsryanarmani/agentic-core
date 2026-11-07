@@ -4,7 +4,7 @@
   "description": "Shared core for CLI tools: brand config, logs, and guards.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-core",
+    "url": "https://github.com/itsryanarmani/agentic-core",
     "source": "github",
     "id": 1413718426
   },
